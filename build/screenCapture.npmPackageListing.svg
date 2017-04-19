@@ -1,0 +1,30 @@
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 00:08:06 +0000  7495536 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 00:08:06 +0000    12293 bytes  ClosureCompiler.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 00:08:06 +0000     5750 bytes  ClosureCompiler.min.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 00:08:06 +0000     4721 bytes  ClosureCompiler.png</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 00:08:06 +0000    11560 bytes  LICENSE</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 00:08:06 +0000      146 bytes  NOTICE</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 00:08:06 +0000    17838 bytes  OPTIONS.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 00:08:06 +0000     5255 bytes  README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 00:08:06 +0000     3664 bytes  bin/ccjs</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 00:08:06 +0000    11358 bytes  compiler/COPYING</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 00:08:06 +0000    14747 bytes  compiler/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 00:08:06 +0000  7170519 bytes  compiler/closure-compiler-v20170409.jar</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 00:08:06 +0000     1859 bytes  externs/ClosureCompiler.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 00:08:06 +0000     3063 bytes  externs/child_process.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 00:08:06 +0000    12718 bytes  externs/fs.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 00:08:06 +0000     1739 bytes  externs/path.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 00:08:06 +0000     2775 bytes  externs/process.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-19 00:08:06 +0000     1503 bytes  jre/ASSEMBLY_EXCEPTION</tspan>
+<tspan x="10" y="314"> 18.  2017-04-19 00:08:06 +0000    19263 bytes  jre/LICENSE</tspan>
+<tspan x="10" y="330"> 19.  2017-04-19 00:08:06 +0000   172252 bytes  jre/THIRD_PARTY_README</tspan>
+<tspan x="10" y="346"> 20.  2017-04-19 00:08:06 +0000      220 bytes  jsdoc.json</tspan>
+<tspan x="10" y="362"> 21.  2017-04-19 00:08:06 +0000     6273 bytes  lib/follow-redirects.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-19 00:08:06 +0000     3041 bytes  package.json</tspan>
+<tspan x="10" y="394"> 23.  2017-04-19 00:08:06 +0000    12726 bytes  scripts/configure.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-19 00:08:06 +0000      253 bytes  tests/test.js</tspan>
+</text>
+</svg>
