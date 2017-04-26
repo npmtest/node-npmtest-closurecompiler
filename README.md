@@ -1,6 +1,6 @@
 # npmtest-closurecompiler
 
-#### test coverage for  [closurecompiler (v1.6.1)](https://github.com/dcodeIO/ClosureCompiler.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-closurecompiler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-closurecompiler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-closurecompiler.svg)](https://travis-ci.org/npmtest/node-npmtest-closurecompiler)
+#### basic test coverage for  [closurecompiler (v1.6.1)](https://github.com/dcodeIO/ClosureCompiler.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-closurecompiler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-closurecompiler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-closurecompiler.svg)](https://travis-ci.org/npmtest/node-npmtest-closurecompiler)
 
 #### ClosureCompiler.js: Closure Compiler for node.js. The all-round carefree package.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-closurecompiler/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-closurecompiler/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-closurecompiler/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-closurecompiler/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-closurecompiler/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-closurecompiler/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-closurecompiler/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-closurecompiler/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-closurecompiler/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-closurecompiler/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-closurecompiler/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-closurecompiler/build/coverage.html/index.html)
 
